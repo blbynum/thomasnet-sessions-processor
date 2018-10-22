@@ -1,6 +1,6 @@
 # ThomasNet Sessions Proccessor Application
 
-**I wrote this years ago and it is terrible. No OOP concepts, no use of awesome tools. Not really sure what I was thinking. I've decided not to go back and fix it, since I no longer have access to the data it proccesses or any use for it, but I'm going to keep it here to look back and laugh about.**
+**I wrote this years ago and it is terrible. No OOP concepts, no use of awesome tools. I was young and dumb. I've decided not to go back and fix it, since I no longer have access to the data it proccesses or any use for it, but I'm going to keep it here to look back and laugh about.**
 
 The purpose of this program is to take massive (and useless) amounts of analytics data downloaded in the form of CSV files from 
 Thomasnet and to process that data into an easily readable set of leads for the sales team. 
